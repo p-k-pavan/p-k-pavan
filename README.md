@@ -30,7 +30,7 @@ experience  : 9 Months @ Connectia Technology (Production-Level)
 internship  : Morphius AI (3 Months)
 cloud       : AWS — OBS Projects & Deployments
 location    : India 🇮🇳
-philosophy  : "I don't just write code — I build scalable systems that solve real problems 🚀"
+philosophy  : "I don't just write code — I build scalable systems that solve real problems "
 ```
 
 > 🔥 Shipped production apps from **development → deployment**. Strong in complex backend logic, cloud infrastructure, and end-to-end product ownership. Currently leveling up toward **Full Stack + DevOps mastery**.
@@ -59,9 +59,7 @@ philosophy  : "I don't just write code — I build scalable systems that solve r
 **Database**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -75,10 +73,10 @@ philosophy  : "I don't just write code — I build scalable systems that solve r
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <details open>
-<summary><b>🛒 Namma Mart — Blinkit-Style Delivery Platform</b></summary>
+<summary><b>Namma Mart — Blinkit-Style Delivery Platform</b></summary>
 
 <br/>
 
@@ -95,14 +93,14 @@ philosophy  : "I don't just write code — I build scalable systems that solve r
 - 🏗️ Designed scalable system architecture from ground up
 - 📱 Responsive UI optimized for mobile-first experience
 - ⚙️ Inventory & order management with real-time status updates
-- 🚀 Deployed on AWS with CI/CD pipeline
+-  Deployed on AWS with CI/CD pipeline
 
 </details>
 
 ---
 
 <details>
-<summary><b>💎 Carat Years — Diamond & Jewelry Factory Management System</b></summary>
+<summary><b>Carat Years — Diamond & Jewelry Factory Management System</b></summary>
 
 <br/>
 
@@ -128,7 +126,7 @@ philosophy  : "I don't just write code — I build scalable systems that solve r
 ---
 
 <details>
-<summary><b>🌐 NBTC Multi-Site CMS — No-Code Website Builder Platform</b></summary>
+<summary><b>NBTC Multi-Site CMS — No-Code Website Builder Platform</b></summary>
 
 <br/>
 
@@ -140,7 +138,7 @@ philosophy  : "I don't just write code — I build scalable systems that solve r
 | 🧩 No-Code Builder | Pick a template → fill content → site goes live instantly |
 | 📐 Templates | Predefined layout templates covering all common page types |
 | 🔥 Admin Dashboard | Centralized dynamic admin to manage all 8 sites |
-| 🚀 Zero Coding | New branch websites created by non-technical users |
+|  Zero Coding | New branch websites created by non-technical users |
 
 **Key Highlights:**
 - 🏗️ Multi-tenant architecture — each branch site is fully isolated with its own CMS
@@ -152,7 +150,7 @@ philosophy  : "I don't just write code — I build scalable systems that solve r
 ---
 
 <details>
-<summary><b>📍 LezzGo — Social Meetup Platform</b></summary>
+<summary><b>LezzGo — Social Meetup Platform</b></summary>
 
 <br/>
 
@@ -175,12 +173,12 @@ philosophy  : "I don't just write code — I build scalable systems that solve r
 
 ---
 
-## 🏆 Core Strengths
+## Core Strengths
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│   🚀  Real-World Production Experience                       │
+│     Real-World Production Experience                       │
 │       Shipped multiple apps from dev → live deployment       │
 │                                                              │
 │   ⚙️  Complex Backend Logic                                  │
@@ -227,7 +225,7 @@ philosophy  : "I don't just write code — I build scalable systems that solve r
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
 
-**"I don't just write code — I build scalable systems that solve real problems 🚀"**
+**"I don't just write code — I build scalable systems that solve real problems "**
 
 *Open to exciting opportunities & collaborations!*
 
