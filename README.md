@@ -26,7 +26,7 @@
 ```yaml
 name        : Pavan Kumar R
 role        : Full Stack Developer → DevOps Engineer
-experience  : 9 Months @ Connectia Technology (Production-Level)
+experience  : ~ 1 Year @ Connectia Technology (Production-Level)
 internship  : Morphius AI (3 Months)
 cloud       : AWS — OBS Projects & Deployments
 location    : India 🇮🇳
