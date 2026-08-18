@@ -84,16 +84,16 @@ philosophy  : "I don't just write code — I build scalable systems that solve r
 
 | Feature | Details |
 |---|---|
-| ⚡ Delivery Model | 3-day optimized delivery pipeline |
-| 🛍️ Architecture | Full-stack, modular, scalable |
-| 📦 Scope | End-to-end: catalog → cart → checkout → delivery |
-| 🔧 Stack | React · Node.js · MongoDB · AWS |
+| Delivery Model | 3-day optimized delivery pipeline |
+| Architecture | Full-stack, modular, scalable |
+| Scope | End-to-end: catalog → cart → checkout → delivery |
+| Stack | React · Node.js · MongoDB · AWS |
 
 **Key Highlights:**
-- 🏗️ Designed scalable system architecture from ground up
-- 📱 Responsive UI optimized for mobile-first experience
-- ⚙️ Inventory & order management with real-time status updates
--  Deployed on AWS with CI/CD pipeline
+- Designed scalable system architecture from ground up
+- Responsive UI optimized for mobile-first experience
+- Inventory & order management with real-time status updates
+- Deployed on AWS with CI/CD pipeline
 
 </details>
 
@@ -196,19 +196,7 @@ philosophy  : "I don't just write code — I build scalable systems that solve r
 └──────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## 🎯 2025 Roadmap
-
-- [ ] 🐳 Docker + Kubernetes — Container orchestration mastery
-- [ ] 🔄 Advanced CI/CD pipelines with GitHub Actions
-- [ ] 📡 Microservices architecture at scale
-- [ ] 🛡️ AWS Certified Developer — Associate
-- [ ] 🌐 Contribute to open-source projects
-
----
-
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
