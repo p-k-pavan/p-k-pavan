@@ -21,7 +21,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
 name        : Pavan Kumar R
@@ -33,7 +33,7 @@ location    : India 🇮🇳
 philosophy  : "I don't just write code — I build scalable systems that solve real problems "
 ```
 
-> 🔥 Shipped production apps from **development → deployment**. Strong in complex backend logic, cloud infrastructure, and end-to-end product ownership. Currently leveling up toward **Full Stack + DevOps mastery**.
+> Shipped production apps from **development → deployment**. Strong in complex backend logic, cloud infrastructure, and end-to-end product ownership. Currently leveling up toward **Full Stack + DevOps mastery**.
 
 ---
 
@@ -108,18 +108,18 @@ philosophy  : "I don't just write code — I build scalable systems that solve r
 
 | Feature | Details |
 |---|---|
-| 💎 Pricing Engine | Dynamic price calculation per Carat weight, Shape & Grade |
-| 📊 Bulk Upload | Excel → JSON with complex nested stock data transformation |
-| 🏭 Factory Workflow | Stone intake → cutting → polishing → certification → dispatch |
-| ☁️ Infrastructure | AWS Hosted — full cloud migration handled |
-| ⚙️ Business Logic | Advanced multi-variable rule engine (weight × shape × quality) |
+| Pricing Engine | Dynamic price calculation per Carat weight, Shape & Grade |
+| Bulk Upload | Excel → JSON with complex nested stock data transformation |
+| Factory Workflow | Stone intake → cutting → polishing → certification → dispatch |
+| Infrastructure | AWS Hosted — full cloud migration handled |
+| Business Logic | Advanced multi-variable rule engine (weight × shape × quality) |
 
 **Key Highlights:**
-- 💎 Built a diamond-industry-grade pricing formula engine — price auto-calculates based on carat, cut, clarity & shape (just like how De Beers / Surat diamond factories price stones)
-- 📂 Excel bulk-upload parser — imports thousands of stone records, transforms to nested JSON with full validation & error reporting
-- 🏭 End-to-end factory workflow: rough stone intake → process stages → finished goods → sale dispatch
-- ☁️ Led full AWS cloud migration with zero downtime
-- 📊 Real-time admin dashboard — live inventory, stock valuation, and sales analytics
+- Built a diamond-industry-grade pricing formula engine — price auto-calculates based on carat, cut, clarity & shape (just like how De Beers / Surat diamond factories price stones)
+- Excel bulk-upload parser — imports thousands of stone records, transforms to nested JSON with full validation & error reporting
+- End-to-end factory workflow: rough stone intake → process stages → finished goods → sale dispatch
+- Led full AWS cloud migration with zero downtime
+- Real-time admin dashboard — live inventory, stock valuation, and sales analytics
 
 </details>
 
@@ -134,18 +134,18 @@ philosophy  : "I don't just write code — I build scalable systems that solve r
 
 | Feature | Details |
 |---|---|
-| 🏢 Scale | 1 Main Site + 7 Independent Branch Sites |
-| 🧩 No-Code Builder | Pick a template → fill content → site goes live instantly |
-| 📐 Templates | Predefined layout templates covering all common page types |
-| 🔥 Admin Dashboard | Centralized dynamic admin to manage all 8 sites |
-|  Zero Coding | New branch websites created by non-technical users |
+| Scale | 1 Main Site + 7 Independent Branch Sites |
+| No-Code Builder | Pick a template → fill content → site goes live instantly |
+| Templates | Predefined layout templates covering all common page types |
+| Admin Dashboard | Centralized dynamic admin to manage all 8 sites |
+| Zero Coding | New branch websites created by non-technical users |
 
 **Key Highlights:**
-- 🏗️ Multi-tenant architecture — each branch site is fully isolated with its own CMS
-- 📐 Template engine with prebuilt layouts (Home, About, Services, Contact, Gallery etc.) — users just plug in their content
-- 🎛️ Central admin panel with role-based access control per site
-- ✨ Spinning up a new branch website = select template + enter details → deployed
-- 🔄 Shared component & asset library used across all 8 properties for consistency
+- Multi-tenant architecture — each branch site is fully isolated with its own CMS
+- Template engine with prebuilt layouts (Home, About, Services, Contact, Gallery etc.) — users just plug in their content
+- Central admin panel with role-based access control per site
+- Spinning up a new branch website = select template + enter details → deployed
+- Shared component & asset library used across all 8 properties for consistency
 
 ---
 
@@ -158,16 +158,16 @@ philosophy  : "I don't just write code — I build scalable systems that solve r
 
 | Feature | Details |
 |---|---|
-| 📍 Live Tracking | Real-time GPS location sharing |
-| 💬 Messaging | Personal & group chat rooms |
-| 💰 Finance | Group budget tracking & splits |
-| 📝 Social Feed | Like, comment, follow/unfollow system |
+| Live Tracking | Real-time GPS location sharing |
+| Messaging | Personal & group chat rooms |
+| Finance | Group budget tracking & splits |
+| Social Feed | Like, comment, follow/unfollow system |
 
 **Key Highlights:**
-- 🗺️ WebSocket-powered live location updates
-- 💬 Real-time chat using Socket.io with room-based architecture
-- 📊 Budget management with per-member expense tracking
-- 🔔 Notification system for feed interactions
+- WebSocket-powered live location updates
+- Real-time chat using Socket.io with room-based architecture
+- Budget management with per-member expense tracking
+- Notification system for feed interactions
 
 </details>
 
@@ -178,19 +178,19 @@ philosophy  : "I don't just write code — I build scalable systems that solve r
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│     Real-World Production Experience                       │
+│     Real-World Production Experience                         │
 │       Shipped multiple apps from dev → live deployment       │
 │                                                              │
-│   ⚙️  Complex Backend Logic                                  │
+│     Complex Backend Logic                                    │
 │       Pricing engines, bulk parsers, multi-tenant systems    │
 │                                                              │
-│   ☁️  AWS & DevOps                                           │
+│     AWS & DevOps                                             │
 │       EC2, S3, OBS deployments, migrations, CI/CD            │
 │                                                              │
-│   🔥  End-to-End Product Development                         │
+│     End-to-End Product Development                           │
 │       Architecture → Design → Build → Deploy → Maintain      │
 │                                                              │
-│   🧠  Scalable Systems Thinking                              │
+│     Scalable Systems Thinking                                │
 │       Designs for growth, not just for today                 │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
